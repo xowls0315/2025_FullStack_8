@@ -1,3 +1,5 @@
+package Day01;
+
 public class Bear extends Animal {
 	private String location;
 	

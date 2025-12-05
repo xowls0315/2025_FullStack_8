@@ -1,3 +1,5 @@
+package Day01;
+
 public class Bully extends Student {
 	public Bully(String name, int age) {
 		super(name, age);
